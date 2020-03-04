@@ -1,0 +1,102 @@
+body {
+    color: #fff;
+    margin: 15px auto;
+    background-color: aliceblue;
+    background-image: url('images/seasons-background.jpg');
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin: 0 auto;
+    width: 700px;
+    background-color: rgba(255, 255, 255, .85);
+    border-radius: 35px;
+    border: 3px solid black;
+    padding: 10px 50px;
+}
+h1 {
+    padding: 10px;
+}
+
+.title  {
+    text-align: center;
+    background-color: #000;
+    border-radius: 15px;
+}
+
+h4 {
+    color: #000;
+    text-align: center;
+}
+
+.button {
+    width: 100px;
+    padding: 8px;
+    background-color: peachpuff;
+    color: #000;
+    border: solid 1px #d3d3d3;
+    font-size: 14px;
+}
+
+.holiday {
+    display: flex;
+    height: 175;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    color: #000;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.article {
+    padding: 15px 50px;
+}
+
+.blue {
+    background-color: lightseagreen;
+}
+
+.green {
+    background-color:olivedrab;
+}
+
+.rink{
+background-color: #ed7da5;  
+}
+
+
+
+.brown{
+background-color:saddlebrown;
+}
+
+
+
+
+
+hr {
+    width: 80%;
+    height: 1px;
+    border: none;
+    background-color: #fff;
+}
+
+.pink {
+    color: pink
+}
+
+.img {
+    display: block;
+    width: 100px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
